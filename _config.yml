@@ -12,21 +12,21 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint"   # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Into the deep unknown"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Minjae Kim, Developer"
+name                     : "Minjae Kim"
 description              : "Coding study blog."
 url                      : "https://mangojuice-kim.github.io"
 baseurl                  : "/blog"
 repository               : "mangojuice-kim/mangojuice-kim.github.io"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. 
 logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. 
-masthead_title           : "Into the Deep Unknown"# overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Into the Deep Unknown" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
