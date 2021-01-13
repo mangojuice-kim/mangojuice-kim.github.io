@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Minjae Kim"
 description              : "Coding study blog."
 url                      : "https://mangojuice-kim.github.io"
-baseurl                  : "/blog"
+baseurl                  : 
 repository               : "mangojuice-kim/mangojuice-kim.github.io"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. 
 logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. 
