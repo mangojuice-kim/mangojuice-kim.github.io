@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Super learning curve."
   location         : "Korea, South"
-  email            :
+  email            : "minjaekimdev@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
